@@ -1,0 +1,26 @@
+{
+  "name": "js-node-bot-connecttech16",
+  "version": "1.0.0",
+  "description": "A sample Node bot using the Microsoft Bot Framework for my session at Connect.Tech 2016.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyjesmok/js-node-bot-connecttech16.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "Anthony Jesmok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anthonyjesmok/js-node-bot-connecttech16/issues"
+  },
+  "homepage": "https://github.com/anthonyjesmok/js-node-bot-connecttech16#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}

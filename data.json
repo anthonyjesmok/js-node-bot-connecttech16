@@ -1,0 +1,1033 @@
+{
+    "sessions": [
+        {
+            "title": "Getting More Out of Git",
+            "description": "Having trouble groking Git? Not sure what the difference between merging and rebasing is? Wondering what you would ever use a \"cherry-pick\" for? We'll cover these topics and more in this talk, helping attendees get past Git novice and on their way to Git master. The talk will being with a short overview of git fundamentals, but quickly jump into more advanced concepts. We'll cover branching, commit amending, stashing, cherry-picking, and yes, merging versus rebasing. You might not be a Git guru after one conference session, but you will have a better understanding of how to play nicely with others in the same Git repository and how to fix common (and not so common) issues in Git.",
+            "speaker": "Jordan Kasper"
+        },
+        {
+            "title": "Getting Started with Elm Lang",
+            "description": "Tired of JavaScript errors and hard to debug code? Interested in writing more functional JavaScript? Then I believe that Elm is the tool you are looking for. Elm helps you write HTML web apps extremely fast all while pushing you towards well-architected code.",
+            "speaker": "Tim Whitacre"
+        },
+        {
+            "title": "Rust for Node developers",
+            "description": "Rust is a programming language from Mozilla that combines strong compile-time correctness guarantees with fast performance and it plays nice with ctypes! Come learn how you can call Rust functions from Node.js code and finally say goodbye to hacking C!\nThere will be a quick intro to Rust, but more an appetizer than anything else; then explanation about how Rust and Node.js can work together, and at the end a few demos to take advantages from Rust in Node.js",
+            "speaker": "Giovanny Gongora"
+        },
+        {
+            "title": "Building non trivial things with WebAssembly",
+            "description": "We'll learn the history of how WebAssembly came to be, the goals it aims to solve, and get familiar with the existing tool chain for writing apps with WebAssembly.",
+            "speaker": "Nick Larsen"
+        },
+        {
+            "title": "Jasmine and Cucumber - a Tasty way to Deliver Better Code Faster",
+            "description": "Behavior Driven Development is a proven way to deliver higher quality code to meet your business’ requirements in less time and you can add it to any agile processes (like Scrum) that does not specify how software should be developed.\n\nIn this session we’ll look at two BDD frameworks; Cucumber and Jasmine. Cucumber is a tool that lets you turn user stories into executable specifications that run every time you check in a code change, so you can verify that what you’re delivering meets the business’ acceptance criteria. Jasmine can be used to write lower level specifications that describe the services needed to make the executable specifications pass. You can use it to write unit tests that ensure the code you’ve written behaves the way you expect. \n\nUsing them together leads to some nice results. You only write code needed to meet the user acceptance criteria, your code behaves the way you expect it to, and you can safely refactor your code to improve clarity, simplify its structure, or meet any other metric you deem necessary. This focused development results in highly cohesive, loosely coupled code, which means it’s easier to debug, maintain and enhance. Now isn’t that a tasty treat?",
+            "speaker": "Burk Hufnagel"
+        },
+        {
+            "title": "Your Code is Terrible, I Love It!",
+            "description": "Nearly all big projects started out as a small codebase, sometimes even as a POC. When trying to quickly prove out functionality and get a lean version of your product to your customer, you're going to write some sh***y code. It's the nature of the profession. This is not a problem until that wee little app of yours grows into a giant beast. Then you're in trouble because it's an unmaintainable nightmare. This talk will show you techniques for how to take your heaping pile and polish it up enough to sell at the gift shop.",
+            "speaker": "Patrick Seda"
+        },
+        {
+            "title": "Does the network seem thin up here? Collaborating over mountaintop mesh networks.",
+            "description": "Digital nomads can now work anytime, anywhere—but often with no WiFi. Despite the explosion of feature-rich web apps, offline editors like Microsoft Word remain their tool of choice, leaving them out in the cold when it comes to realtime collaboration.\n\nWith the help of Operational Transforms + Conflict-Free Replicated Data Types, peer-to-peer web apps can enable writers, musicians and other creators to collaborate off-the-grid and climb up to the writer’s ultimate dream: collaborative writing atop Half Dome.\n\nOh, and we won’t need conference WiFi.",
+            "speaker": "Jonathan Martin"
+        },
+        {
+            "title": "Applesoft BASIC Flashback",
+            "description": "Applesoft BASIC was the first programming language for many developers who grew up in the 1980s. We'll look back on this language as adults to see how it shaped our learning as developers.",
+            "speaker": "Corinna Cohn"
+        },
+        {
+            "title": "aqueduct: A server-side framework in Dart",
+            "description": "A look at the Dart programming language and its new server-side framework, aqueduct. This talk will introduce the fundamentals of the Dart programming language and the tools and knowledge necessary to immediately get started building web server applications in aqueduct.",
+            "speaker": "Joe Conway"
+        },
+        {
+            "title": "Javascript Software Craftsmanship Part 1",
+            "description": "Becoming an expert coder involves much more than learning the coolest new framework or becoming a design pattern ninja.  Becoming an expert coder is about passion and craftsmanship. In this two-part series we will dive into Software Craftsmanship, what it is and how it has not only influenced but also refactored our industry and trade. We wont stop there, we will discuss how to grow beyond being a commodity coder to being mentored and mentoring others, who the mentors are, and how to take ownership of your coding career.  Finally we will look at what often makes JS code suk and the often ignored but essential disciplines of master software craftsmen and how these apply to JS coders.",
+            "speaker": "Stephen M. Carlson"
+        },
+        {
+            "title": "Javascript Software Craftsmanship Part 2",
+            "description": "Becoming an expert coder involves much more than learning the coolest new framework or becoming a design pattern ninja.  Becoming an expert coder is about passion and craftsmanship. In this two-part series we will dive into Software Craftsmanship, what it is and how it has not only influenced but also refactored our industry and trade. We wont stop there, we will discuss how to grow beyond being a commodity coder to being mentored and mentoring others, who the mentors are, and how to take ownership of your coding career.  Finally we will look at what often makes JS code suk and the often ignored but essential disciplines of master sotware craftsmen and how these apply to JS coders.",
+            "speaker": "Stephen M. Carlson"
+        },
+        {
+            "title": "Engaging Engineering Teams in Design",
+            "description": "Frequently, designers and engineers tend to run in their own circles and speak their own distinct languages. Interactions between the 2 teams tend to follow a prescribed, limited path: design creates mocks for a planned UI change, engineering implements the mocks and deploys the new UI to the customer. But experience has shown that keeping design and engineering engaged throughout the product development cycle leads to far more coherent, impactful result. Josh Teague (lead designer at FullStory) and Stephanie Brubaker (senior engineer at FullStory) will be sharing lessons from their own experience on how design and engineering teams can work together to create breakthrough products.",
+            "speaker": "Josh Teague"
+        },
+        {
+            "title": "ImprovUX",
+            "description": "ImprovUX: A talk that brings the worlds of Improvisation and User Experience together...accept they're actually part of the same world with the same ideas and philosophies.",
+            "speaker": "Mike Gorgone"
+        },
+        {
+            "title": "UX patterns for developers",
+            "description": "Are you willing to go the extra mile to make your UX shiny and joyful?\nMost of us developers underestimate the importance of the Human-Computer Interaction.\n\nJoin this talk for developer-friendly UX patterns that you can start using in your everyday code.",
+            "speaker": "Jad Joubran"
+        },
+        {
+            "title": "Bridging the designer-developer gap",
+            "description": "It’s no surprise that designers and developers tend to be separate teams. Designers are all about creativity and art; developers are about logic and effectiveness. Yet what we don’t realize is that both of them have one trait in common: to solve problems. Both have to work together to make their product work.\nLearn how to better communicate with developers through tips and tricks to help you see things from a developer’s perspective, for less headaches & smarter designs.",
+            "speaker": "Nicole Saidy"
+        },
+        {
+            "title": "Let's Get Animated!",
+            "description": "Add excitement and user interaction with client-side SVG animations! Get the low-down and make your own SVG animation through this lecture. You'll walk out with confidence towards implementing web animations in your future projects!",
+            "speaker": "Tamil Periasamy"
+        },
+        {
+            "title": "ExD: Designing for Exponential Change",
+            "description": "An exploration of basic Design Principles and the forcing functions of Exponential Growth, Miniaturization and Dematerialization. Application of these concepts will be demonstrated using a custom set of \"Method Cards\" that can be sorted and discussed to inform and inspire research and design.",
+            "speaker": "Will Jayroe"
+        },
+        {
+            "title": "A Dad’s Eye View of the Coming Infopocalyse",
+            "description": "Technology is ruining the youth of today... and it’s going to be awesome. My 5yr old son lives in a world where all media is on-demand, all screens are touch screens, and most of his physical toys have embedded software. He plays with devices differently than I did and expects more from them. This talk will provide a glimpse of the future and how to design experiences for the next generation.",
+            "speaker": "Josh Marinacci"
+        },
+        {
+            "title": "Creating a Mobile UX Strategy",
+            "description": "Of businesses that have mobile solutions, 44% report the solution wasn’t adopted due to poor user experience. Mobile UX is fundamentally different than web. It’s crucial to think through every factor including platform, content, implementation, performance and goals. By understanding the role that UX plays in a mobile strategy you can prevent low adoption rates and instead create a successful project.",
+            "speaker": "Grant Davies"
+        },
+        {
+            "title": "Tablets and Hybrids Need Mobile-Optimized Websites, Too!",
+            "description": "It takes extra work to deliver a truly responsive website. Since larger tablets and hybrids such as iPad Pros and Windows Surface devices can fit the full size of a standard laptop/desktop website, a tempting thought is to save time and deliver to them the exact same experience. This talk may change your mind, elaborating on why that kind of thinking can hamper the user experience and possibly drive people away, perhaps to access your website on a laptop or smartphone, or worse yet to a competitor.",
+            "speaker": "Andrew Malek"
+        },
+        {
+            "title": "Make Web Forms Great Again",
+            "description": "Has your web form conversion rate hit a wall? Are users skipping filling out your long forms, not receiving confirmation e-mails, or getting pestered with password or data format warnings *after* they finish entering their information? If so, then it's time to #MakeWebFormsGreatAgain. Learn suggestions of A/B tests you can try with your web forms to help encourage more people to interact.",
+            "speaker": "Andrew Malek"
+        },
+        {
+            "title": "Introduction to Aurelia",
+            "description": "Aurelia is a next generation JavaScript client framework for mobile, desktop and web. It's the most standards-compliant, highly performing and simplest technology of its kind today. In this course you'll have an opportunity to learn directly from Aurelia's architect and project lead, Rob Eisenberg. He'll teach you how to create modern web applications using an MVVM approach with Aurelia. You also will learn how to extend HTML with custom elements and attributes, how to handle client-side routing and even cover best practices in project organization, maintenance and deployment.",
+            "speaker": "Rob Eisenberg"
+        },
+        {
+            "title": "Composition vs. inheritance",
+            "description": "A look at the benefits of functional composition and factory functions vs. traditional inheritance.",
+            "speaker": "Dylan Schiemann"
+        },
+        {
+            "title": "JavaScript Objects Deep Dive",
+            "description": "Bob, our tour guide, will take us on a unique visual tour of JavaScript objects. We'll explore where the community has been and where it is going with a visual approach to creating and relating objects, prototype chains, inheritance, composition, and all that fun stuff.",
+            "speaker": "Bob Holben"
+        },
+        {
+            "title": "Web Components & Polymer: Lego bricks of the web",
+            "description": "Writing the same login form over and over again? Web components offer a modular approach to creating reusable UI widgets. Ditch large, complex frameworks and drop these lightweight building blocks into your site. We will show you how to build, test, and deploy a web component, and introduce you to the wide selection of existing web components available through Google’s Polymer.",
+            "speaker": "Pearl Latteier"
+        },
+        {
+            "title": "Webpack: A Simple Introduction to a Complex Tool",
+            "description": "",
+            "speaker": "John Mercer"
+        },
+        {
+            "title": "Wed, Bed, or Dead ( or how to pick the tech stack for your next project)",
+            "description": "Everyone wants to be the cool kid using the tools and frameworks that all of the cool kids are using.  But, is the frame work the right choice for your project? Does it scale? Is it flexible? Maintainable? Is it for right now (bed)? Or if you use (wed) it, how difficult is it to switch to something else? Go through the process of evaluating libraries and frameworks to decide if and how they would fit into the architecture of your next project.",
+            "speaker": "Delicia Brummitt"
+        },
+        {
+            "title": "Oh Composable World!",
+            "description": "The biggest sources of code complexity are state & control flow. Loops, conditionals, try/catch blocks, callbacks, & mutable variable assignment is one way to ensure such complexity. By contrast, if we have a composable set of pieces that plug together, we can “dot chain” a single expression for which our data flows through. We’ll examine techniques from functional programming, borrow some moves from OO, and write blocks of dead-simple to understand code.",
+            "speaker": "Brian Lonsdorf"
+        },
+        {
+            "title": "Prototype to Production - Ember to the Rescue",
+            "description": "Looking at the expanse of developing a new product there are hundreds of small mechanisms that need to be in place as you take an idea from prototype to production.  This talk is a look at using Ember to race up the canyon walls to the plateau of maintaining a production application.  Aside from developing a maintainable, useful, and working application, the development team will need to think about the following: build systems and deployment, wireframes to components, simultaneous API and client development, feature spikes with 3rd party libraries, and post-launch maintenance and education.  While examining two start-up projects, I will explore these topics and how Ember helps to provide streamlined solutions.",
+            "speaker": "Todd Gandee"
+        },
+        {
+            "title": "Creating Kickass Data Visualizations with D3",
+            "description": "Tired of boring charts that all look the same or only have a few configurations? Join me in a D3js jumpstart session to learn the core concepts of D3. The goal is to show D3 capabilities, core concepts, and gotchas, so you can start building kickass data visualizations. Set yourself free by learning how D3js can provide all the tools needed to visualize data on the web.",
+            "speaker": "Chris Morrow"
+        },
+        {
+            "title": "JavaScript error reporting and why we can't have nice things",
+            "description": "Wouldn't it be nice if, instead of relying on users to report bugs, your web app automatically did it for you? In this talk, learn how to collect JS errors from your web apps – how to do it, why it's hard, and why you should consider 3rd-party libraries and tools to do it for you.",
+            "speaker": "Ben Vinegar"
+        },
+        {
+            "title": "Testing ES6 and TypeScript apps with Intern",
+            "description": "Learn how to test all the things with your modern ES6 and/or TypeScript applications using Intern.",
+            "speaker": "Dylan Schiemann"
+        },
+        {
+            "title": "Building a progressive web app with Angular 2",
+            "description": "Progressive web apps can give your website a native like user experience.\nAngular 2 makes it easier than ever to build progressive web apps with its new mobile toolkit.\nLearn how to get started and build your own PWA using Angular 2!",
+            "speaker": "Jad Joubran"
+        },
+        {
+            "title": "Scaling large Angular 1 apps",
+            "description": "Although Angular JS is a powerful framework, we still need conventions, automation and a variety of tools to make it scale. Especially in a team environment. Learn how to scale your angular apps with simple but effective techniques, endorsed by the Angular community.\n\nThere are so many Angular 1 apps out there that won't be upgraded to Angular 2... but they still need to be updated with new features & be able to serve a lot of users.",
+            "speaker": "Jad Joubran"
+        },
+        {
+            "title": "Preparing Angular 1.x apps to upgrade to Angular 2",
+            "description": "Preparing Applications to Upgrade to Angular 2\nRefactoring Angular 1.5",
+            "speaker": "John Mercer"
+        },
+        {
+            "title": "Building a Secure Chat App with AngularJS and Ionic",
+            "description": "A basic chat app in AngularJS is pretty easy.  It can be done in about 50 lines of code plus a simple NodeJS backend to repeat messages. Making a good and complete chat app, however, is far more difficult.  This talk will cover building a chat app from beginning to end, including scroll back history, offline notifications, authentication, security, and packaging for publishing in mobile app stores.",
+            "speaker": "Josh Marinacci"
+        },
+        {
+            "title": "Introduction to Angular2",
+            "description": "AngularJS is the incredibly popular framework for building single-page web applications. Version 2.0 is a major leap from the 1.x version designed to address shortcomings in the original 5+ year old framework and to embrace modern browsers and language features. It is being written using TypeScript, a superset of JavaScript that allows you to build code using next generation features and compile it to JavaScript that will run on current browsers",
+            "speaker": "Jeremy Likness"
+        },
+        {
+            "title": "Refactoring AngularJS Applications",
+            "description": "AngularJS applications are often rushed into production with little consideration for long term support or maintainability. This session will discuss strategies for refactoring Angular 1.x applications to make them easier to support over the application's service life.",
+            "speaker": "Corinna Cohn"
+        },
+        {
+            "title": "Angular Performance Pitfalls",
+            "description": "Performance and memory can quickly get away from you in JavaScript, and some features in Angular 1 can exacerbate the problem. We will discuss some basic causes for performance drains and memory leaks in JavaScript and some specific misuses of Angular that run into them.",
+            "speaker": "K. Devin McIntyre"
+        },
+        {
+            "title": "Angular Architectures: A roadmap for the hearty traveller",
+            "description": "There is no doubt that Angular is now mainstream. That made it easier for you to convince the powers-that-be to let you select Angular for your project. You've done a small but successful POC and now your 'big' project has been green lighted to kick off next month. Your team is jazzed but as you start to plan out the real work, you begin to realize that there are many aspects inherrent to large Angular projects that have no 'out of the box' answers.\n\nStack overflow can only contribute 'it depends' answers that leave you more confused than before you read them. And now the panic starts to seep in, killing your buzz. Never fear! In this session, we will explore a variety of ways to architect your project and structure your code. We will look at the pros and cons of each option and discuss when trigger points for choosing each.",
+            "speaker": "Peter Pavlovich"
+        },
+        {
+            "title": "Forming an opinion about Angular Forms in 1.X and 2.0",
+            "description": "Forming an opinion about Angular Forms in 1.X and 2.0",
+            "speaker": "Peter Pavlovich"
+        },
+        {
+            "title": "Angular 2 Toolset Support",
+            "description": "This talk is about the design decisions that make Angular easy for static code analysis, and some of the tools that can help your Angular code be less error-prone and follow a common style.",
+            "speaker": "Minko Gechev"
+        },
+        {
+            "title": "Things I learned from Angular 2's Source",
+            "description": "Angular 2 is one of the most discussed technologies during the past year. There are plenty of rumors about the rocket science powering the framework and its exceptional scalability, portability and speed.\n\nA lot of features make Angular unique - runtime generation of VM friendly code that takes advantage of inline-caching, cross-platform portability, facades which allows the same code to be transformed to both Dart and TypeScript, tree-shakable architecture, etc.\n\nAlthough all this sounds curious, it is hard to explore each individual concept by taking a deep dive at the Angular's codebase which exceeds 100k lines of code. In this talk I will synthesize some of the most interesting things that I discovered during my contribution to the project and involvement in the Angular community.",
+            "speaker": "Minko Gechev"
+        },
+        {
+            "title": "Diving into Swift for iOS",
+            "description": "A great intro for those looking to start their journey developing IOS apps using Swift. Using the latest version of Swift we will cover the basics of developing IOS apps.",
+            "speaker": "Shawn Johnson"
+        },
+        {
+            "title": "Optimizing app install and user on boarding costs",
+            "description": "While there are many effective mobile app advertising platforms, understanding which networks are most effective an on boarding new users requires measurement.  Patrick will describe best practices for app conversion tracking and measurement with specific examples from previous apps he has worked on.",
+            "speaker": "Patrick Childers"
+        },
+        {
+            "title": "Using MVVM on iOS Effectively",
+            "description": "If you’ve built an iOS app, you know about the MVC pattern, and where UIViewController fits into it. View controllers have become the workhorses of CocoaTouch, and are all too easy to over-burden.\n\nThe increasingly popular Model View ViewModel pattern is all about giving view controllers a break, and separating presentation logic from UI. The advent of watchOS and tvOS has made this a great time to learn how and why this is more important than ever.\n\nThrough the lens of real-world problems and solutions, we’ll break MVVM down into some simple but effective architectural decisions that can help you keep the ever-blurring lines of the MVC pattern just a little clearer. No dependencies or frameworks, just good patterns and strong architecture.",
+            "speaker": "Bradford Dillon"
+        },
+        {
+            "title": "What the Swiftly Func?",
+            "description": "Functional programming is all the rage, but what is it exactly.  Without resorting to confusing terms like 'Monad' and 'Functor', this talk seeks to shed a little light on this Important yet confusing approach to programming.",
+            "speaker": "James Majors"
+        },
+        {
+            "title": "Confusion Optional",
+            "description": "Optional can be confusing, with '?' and '!'.  What does it all mean?  This talk will help you understand the whys and how's of using this important type in Swift",
+            "speaker": "James Majors"
+        },
+        {
+            "title": "Enhancing Your Workflow with Xcode Source Editor Extensions",
+            "description": "Developers are constantly refining their workflow in order to master their craft. There is a plethora of tools available that can help bootstrap a project, increase efficiency, or simply make developers happy. Let’s explore the newly introduced Xcode Source Editor Extensions; an Application Extension that gives developers the power to create custom actions in Xcode’s Editor menu.",
+            "speaker": "Jesse Black"
+        },
+        {
+            "title": "Level Up Your Game With TravisCI: From Zero To Hero In 45 Minutes",
+            "description": "TravisCI, Xcode Bots, Fastlane, TestFlight, HockeyApp are only a few of the many tools that are available and highly used to optimize workflows and improve your product. But where do you start? \"Level Up Your Game With TravisCI: From Zero To Hero In 45 Minutes\" helps you jump start into CI with your iOS projects. No matter if you have never heard about CI before or if you only want to refine your tools.",
+            "speaker": "Florian Harr"
+        },
+        {
+            "title": "Creating Connections with Core Location and Map Kit",
+            "description": "We live in a world in which technology keeps us closely linked us to our surroundings. Using location-based information in your iOS applications can greatly enhance the user experience, but it’s important to know how to use Core Location and Map Kit correctly in order to optimize accuracy without consuming too much power. In this talk, we’ll take a tour of these frameworks with code samples to demonstrate functionality like indoor positioning, visit monitoring, geofencing, and iBeacons. We’ll also discuss user privacy and authorization for location usage.",
+            "speaker": "Marlene Jaeckel"
+        },
+        {
+            "title": "Swift Memory Management",
+            "description": "Memory management in Swift is fairly abstracted away from you as a developer and it’s easy to build iOS apps without an understanding of it… until something goes wrong.  This can result in unexpected behavior, unclear error messages, lost data and crashes.  Even a basic understanding of memory management can go a long way, making it easy to prevent these issues in the first place, understand what when wrong when they do occur and know how fix them.",
+            "speaker": "Marcus Smith"
+        },
+        {
+            "title": "Session: iOS in the Enterprise",
+            "description": "The enterprise environment is different than a commercial or consumer facing development effort. In this intermediate level workshop workshop, we'll cover these topics and take a deep dive into the challenges facing enterprise app developers: Monitoring the app in the field, Enterprise UX concerns, Privacy concerns, APIs and capabilities you'll only use in the enterprise, Enterprise deployment walled garden, Advanced problem solving for application design and performance",
+            "speaker": "Carol Shepherd"
+        },
+        {
+            "title": "Building distributed systems with Redux",
+            "description": "Redux is a implementation of the FLUX architecture. Actions are dispatched to cause side effects within your application. Actions are plain JSON, and easily serializable. In this talk we will experiment with Redux as elegant solutions to distributed systems.",
+            "speaker": "Clint Ayres"
+        },
+        {
+            "title": "Creating more efficient React views using windowing techniques",
+            "description": "Learn how to speed your React views up by only rendering what the user wants to see. This technique (commonly referred to as \"windowing\") is easy to integrate into existing views and can provide huge performance gains.",
+            "speaker": "Brian Vaughn"
+        },
+        {
+            "title": "Extending React.Component for Fun and Profit",
+            "description": "React Mixins are going away. Higher-order Components can be confusing to beginners. Is there a better way? Learn this one weird trick that functional programmers don't want you to know!",
+            "speaker": "Tim Dorr"
+        },
+        {
+            "title": "Sane React Testing",
+            "description": "In this talk, you'll learn about the three main inputs to React components that you commonly need to deal with when unit testing and how to properly isolate these concerns in your unit tests. You'll walk away with what you need to know to build a solid, maintainable test suit for your React applications and libraries.",
+            "speaker": "Kent C. Dodds"
+        },
+        {
+            "title": "Navigating the React Ecosystem",
+            "description": "Let’s walk through the tools that surround React and learn which you should prioritize learning first.",
+            "speaker": "Ben Ilegbodu"
+        },
+        {
+            "title": "Re-energize Your Workflow with React and Redux",
+            "description": "Redux helps you build applications with React by making it easier to manage data changes and state in your application. In this talk, Jonathan walks you through building applications with React and Redux using ES6, Babel and Webpack.",
+            "speaker": "Jonathan Kemp"
+        },
+        {
+            "title": "Pure Functions: An Introduction to Functional Programming in JavaScript",
+            "description": "Pure functions are the foundation of functional programming. Using pure functions can make application development in JavaScript easier. But what is a pure function? In this session, you'll learn what pure functions are and how you can use them to simplify your development process. In addition, we'll look at using pure functions to build applications in JavaScript with React and Redux.",
+            "speaker": "Jonathan Kemp"
+        },
+        {
+            "title": "Introduction to React.JS",
+            "description": "React.js is a view library from Facebook for building performant user-interfaces in JavaScript. In this session, we'll explore React.js and understand why it's a great step forward for building complex UI's that run fast. We'll code up an example web application using React.js and step through the basics of using the library while discussing concepts like the virtual DOM and components.",
+            "speaker": "Andrew Smith"
+        },
+        {
+            "title": "Isomorphic React w/o Node??",
+            "description": "React is a JavaScript UI library with components that can render server-side for improved SEO and initial browser load time. But how do you render JavaScript React components on the server if your backend doesn’t run on Node? Learn how Eventbrite successfully integrated React with their Python/Django backend so that you can do the same in yours.",
+            "speaker": "Ben Ilegbodu"
+        },
+        {
+            "title": "React Router 4.0: What's New",
+            "description": "React Router 4.0 brings some big changes to the most popular routing library in the React ecosystem. Come see what's new and all the improvements in this latest API overhaul.",
+            "speaker": "Tim Dorr"
+        },
+        {
+            "title": "Deploying GraphQL in a Serverless Architecture",
+            "description": "GraphQL's flexibility has made it an intriguing and necesary choice for frontend developers. These developers seem to understand the benefits of using GraphQL before their backend counterparts, but have a hard time selling the benefits in a way that causes the backend team to grasp. Most concerns from backend developers are around the GraphQL structure, reimplemenation of existing logic and deployment. What if you could deploy GraphQL without the need to deploy and manage entire servers? In this talk we'll explore using GraphQL in a serverless context with AWS Lambda, using the Serverless framework. We'll look at the pros and cons of deploying GraphQL in such an architecture.",
+            "speaker": "Kevin Old"
+        },
+        {
+            "title": "PSR-7 and Action-Domain-Responder",
+            "description": "In this talk, we will discuss PSR-7 (the \"HTTP Messages\" recommendation) and how it can be used with the Action-Domain-Responder pattern, particularly when it comes to middleware-based systems. We will also go over some PSR-7/ADR libraries and frameworks, such as Relay, Arbiter, and Radar, and address opinions on the separation of concerns between HTTP user interfaces and the underlying application domain.",
+            "speaker": "Paul M. Jones"
+        },
+        {
+            "title": "Pulling Up Your Legacy App by its Bootstraps",
+            "description": "Your mission, should you choose to accept it, is to support an application built on an older framework. Refactoring isn't an easy option. The code is untested and nowhere near best practices or standards. In this session, we'll talk about strategies to incorporate modern PHP coding practices to add features and functionality and retiring the older code in pieces. We'll review specific examples and code from a real project where we bootstrapped a legacy application that needed a lot of help to become useful to its users and simpler for developers to maintain. We'll talk about strategies to leave the existing code in place until the new code is ready to replace it in whole or in pieces.",
+            "speaker": "Emily Stamey"
+        },
+        {
+            "title": "Contract Driven Development",
+            "description": "Have you ever used a web-based API that was poorly designed and inconsistent?  Have you found gaps between the documentation and implementation?  At Patientco, we have successfully implemented a Contract Driven Design methodology for APIs.  Swagger is used to design RESTful endpoints before a line of code is written and the specification, documentation, and code are kept in sync through automated testing and deployment.",
+            "speaker": "Chris Church"
+        },
+        {
+            "title": "Easy Local Development for PHP or WordPress",
+            "description": "If you program in PHP but do not yet develop LOCALLY on your laptop, especially if you develop WordPress-based websites, then this workshop if for you.",
+            "speaker": "Mike Schinkel"
+        },
+        {
+            "title": "Iterators, ArrayAccess & Countable – Oh My!",
+            "description": "Learn how to empower your objects in PHP with SPL! The SPL (Standard PHP Library) has existed for many years but is still one of the less understood parts of the language. We will cover some of the most useful core aspects of the SPL, features that are easy to add to your own objects, making them more powerful and flexible!",
+            "speaker": "Eli White"
+        },
+        {
+            "title": "Aphorisms of API Design",
+            "description": "How can we build code that's intended to last and stay robust in the face of change?  What matters are your APIs.  Let's see how to build good, solid code.",
+            "speaker": "Larry Garfield"
+        },
+        {
+            "title": "API Security: Slowing down the hackers",
+            "description": "APIs are the backbone of modern web applications. Whether they be used as a access point for AJAX queries, mobile apps, 3rd party integrations or just general data feeds, your applications’ API often needs the ability to access everything. Securing the API consequently is essential to the security of your application. This talk will cover the various types of APIs common in web applications, the security issues relevant with the various API types and methods for securing your APIs, and slowing down the hackers.",
+            "speaker": "Anthony Green"
+        },
+        {
+            "title": "Developing Bots for Slack",
+            "description": "Slack has become incredibly popular, and it provides a new way for developers to build applications, and services. There is a lot of interest in creating for this platform, but there's more to it than just code. The whole process from research, to publishing and distribution will be covered in this session.",
+            "speaker": "Nic"
+        },
+        {
+            "title": "PHP 7: The New New PHP",
+            "description": "PHP 7: Why aren't you using it yet?  Here's an hour of awesome, brought to you by PHP 7.",
+            "speaker": "Larry Garfield"
+        },
+        {
+            "title": "PHP OOP: An Object Oriented Programming Primer",
+            "description": "Whether you are a brand new developer or an experienced coder - the PHP object model can hold some mysteries that are worth exploring.  This session will briefly cover the basics of working with Objects in PHP, then dive quickly through inheritance, abstracts, interfaces, traits, late static binding, magic methods, namespaces and maybe even reflection.  It’s a lot to cover to make sure to show up with your eyes open and ready to move quickly!",
+            "speaker": "Eli White"
+        },
+        {
+            "title": "Action-Domain-Responder: MVC for the Web",
+            "description": "Using Model-View-Controller as a pattern to describe stateless HTTP interactions has always been a bit of a kludge. There simply hasn't been a better pattern web applications -- until now.  ADR (Action-Domain-Responder) represents a refinement of generic MVC as an application architecture specifically tuned to the web. In this talk, we will discuss various patterns of overall application architecture, including MVC, MVP, PAC, DCI, RMR, and others. We will find out how the ADR pattern arises from generic MVC, and how it provides a better description of how web applications actually work. Finally, we will go over examples of how to architect an ADR application, as well as how to convert from an MVC architecture to an ADR one.",
+            "speaker": "Paul M. Jones"
+        },
+        {
+            "title": "Ignite Your App Development With NativeScript and Firebase",
+            "description": "You've heard about the great enhancements to Firebase, as announced at Google.io, and you're curious about how to leverage them in a mobile app? This session will reveal how you can use NativeScript with Angular 2 to build a cross-platform mobile app that can be updated in realtime. Set your mobile development on fire with Firebase and NativeScript!",
+            "speaker": "Jen Looper"
+        },
+        {
+            "title": "HOLD FOR EDWIN",
+            "description": "HOLD FOR EDWIN",
+            "speaker": "Edwin Huertas"
+        },
+        {
+            "title": "Ionic 2: A new way to do mobile",
+            "description": "Ionic has revolutionized the way web developers make the transition mobile development, but there’s always room to improve and make the lives of new app developers easier. With Ionic 2, we’ve improved upon much of what made Ionic 1 great, while also keeping things simple and reducing the fatigue that developers can feel when learning a new tool.",
+            "speaker": "Mike Hartington"
+        },
+        {
+            "title": "Cross-Cross Platform",
+            "description": "You can utilize Xamarin to write cross platform applications, but did you know the real win can be when you can use it across all platforms - mobile and web?",
+            "speaker": "James Prolizo"
+        },
+        {
+            "title": "Creating Interactive Multiplayer Experiences with Firebase",
+            "description": "Building realtime features that work on all your different devices is the holy grail of app development. The Firebase Realtime Database lets you store and sync data instantly, and allows you to build a web, mobile or Unity application in minutes without worrying about wiring up a backend. The real time aspect and a number of lesser known, powerful features (such as transactions) make it possible to create a multiplayer gaming experience as well.\n\nIn this session, we'll twist the traditional rock-paper-scissors into a web based, multiplayer  happy-surprised-angry game using your facial expressions and a web-cam. We’ll use both old and new Firebase features to keep track of online players, synchronize game state across multiple connections, create chat rooms, and match players together for game play.",
+            "speaker": "Mark Mandel"
+        },
+        {
+            "title": "Developing Cross-Platform, Native Apps in JavaScript",
+            "description": "Overview of methods of developing cross-platform native apps in JavaScript, understanding the differences between cross-platform native and hybrid apps, the different choices and drilling down into one of them to see how it's done in practice.",
+            "speaker": "Jason Kneen"
+        },
+        {
+            "title": "The New Mobile Web: Service Worker, Push and App Manifests",
+            "description": "Not just another \"Progressive Web Apps\" talk.\n\nCompared to native apps, mobile websites have historically been at a disadvantage: no installation, no push notifications, and they only work when you're online.\n\nThis year, that changed.\n\nThis session examines how the new Service Worker, Push, and App Manifest specifications fill the gaps between web and native. But this isn't just another \"Progressive Web App\" talk; instead, we'll dicuss the new APIs individually, emphasizing their flexibility and countering the one-size-fits-all hype.\n\nThis talk will cover:\n\n1. How to use Service Workers as a programmable proxy/cache for your website, which allows you to make resources available offline.\n\n2. How to use Push to send notifications to your website's users, even when they don't have your site open.\n\n3. How to use a Web App Manifest to control your site's presentation and installability.\n\nWe'll also discuss how, taken together, they allow us to create mobile web experiences that are virtually indistinguishable from native. Or not. How you use these specs really is up to you.",
+            "speaker": "Dan Callahan"
+        },
+        {
+            "title": "Using Jenkins for Continuous Cross Platform Mobile Development and Distribution",
+            "description": "Ease your team's mobile development, testing and distribution workflow by getting Jenkins to handle (most) all of the tedious bits.",
+            "speaker": "Adam Paxton"
+        },
+        {
+            "title": "Practical Performance Tips to Make Your Cross Platform Mobile Apps Faster",
+            "description": "Apache Cordova is one of the most popular frameworks for cross-platform mobile development. Web developers can build apps for iOS, Android, and Windows based on the same frameworks they use for the Web by using a shared codebase. However, the methods for improving mobile app performance can be different from those web developers use for web apps. Doris Chen outlines what impacts “native performance” and explains how the startup time, as well as the overhead of resume, memory, communication, and the Web, can all contribute to the performance of Cordova apps. To build Cordova apps that perform well, it’s important to understand how to avoid common pitfalls and how to use the technologies in the most efficient ways. Doris introduces tools for performance tests and demonstrates how to measure mobile app performance by using diagnostic tools for different platforms. Doris also shares practical tips for building faster Cordova apps by exploring Document Object Model (DOM) complexity, animation techniques, and memory management.",
+            "speaker": "Dr. Doris Chen"
+        },
+        {
+            "title": "ReactNative - Under the hood",
+            "description": "ReactNative is a way to create native applications for iOS, Android and Windows devices in JavaScript. In this session, we will look under the covers at the technology that enables ReactNative to drive native user interface components. We will look at a typical developer workflow and the way ReactNative is tied to developer tools. We will round it off with ways to deliver updates to your app without needing to submit updates to the app store.",
+            "speaker": "Parashuram"
+        },
+        {
+            "title": "Testing Android Apps with Software Robots",
+            "description": "Software robots like monkey provide a quick way to validate your application. With robots on new cloud testing services, it is easier than ever to get started testing your app without even having written any tests. In this talk, I will introduce a few tools from both academia and industry, and then cover the basics of how these tools work. You will learn about the strengths and limitations these tools and how to use them effectively to maximize code coverage and catching failures.",
+            "speaker": "Shauvik Roy Choudhary"
+        },
+        {
+            "title": "Advanced Android: Fragments & Services",
+            "description": "Topics in this session will include an in-depth discussion of fragments, as well as services, notifications, and the action bar.\n\nFragments are fundamental to Android applications, but their implementation can get complicated. We'll look at simple ones, like the preferences fragment, then move to dialogs, and finally a complete summary/detail flow.",
+            "speaker": "Ken Kousen"
+        },
+        {
+            "title": "Gradle Recipes for Android",
+            "description": "Android applications no longer use Ant or IDE builds. The new build mechanism is based on Gradle, the popular build tool from the Groovy ecosystem. This talk will introduce Gradle to Android developers and show how easy it is to integrate into Android projects.\n\nThe latest version of the Android Studio IDE will be used to develop applications. Topics will include using the Android plugin for Gradle, adding dependencies and alternate repositories, creating custom tasks, implementing both unit and integration tests, using alternative build types, product flavors and variants, and more.",
+            "speaker": "Ken Kousen"
+        },
+        {
+            "title": "Data Persistence Essentials",
+            "description": "We store a lot of data in our apps, for example, a user’s name and email, a list of friends, to sports scores, just to name a few. The variety of ways to perform this essential task can be overwhelming. In this talk, we will cover the primary forms of data persistence, including best practices.",
+            "speaker": "David Hope"
+        },
+        {
+            "title": "What’s new in Android!",
+            "description": "Android N, now known as Nougat, was announced this past spring at Google IO 2016.  Drop in to hear a rundown of all the new and exciting features that you as a developer can take advantage of in the new Nougat release.  From the new split window feature to Java 8 feature support, there is some exciting topics to cover.  We will also cover the latest in build tools: Android Studio, Jack and Jill, and Gradle plugins.",
+            "speaker": "Douglas Knudsen"
+        },
+        {
+            "title": "Activities in the Wild: Exploring the Android Activity Lifecycle",
+            "description": "To Android users, your Activity object is your app.  Take a journey with me to experience what happens to your Activity’s state and view at runtime in relation to what the user (and the operating system itself) is doing.  We will discuss considerations you should make based on this knowledge when designing and building your app.  You will walk away from this talk with a strong understanding of the most fundamental piece of Android applications.",
+            "speaker": "Kristin Marsicano"
+        },
+        {
+            "title": "Data Binding",
+            "description": "I, too, was skeptical about the idea of data binding in Android development. Would it work? Would it be buggy? Are there any benefits? But now I'm a believer, so let's dive into the pros (and cons) of completely structuring an application around Data Binding.",
+            "speaker": "Matthew Compton"
+        },
+        {
+            "title": "Android Development For Arduino 101",
+            "description": "The Internet of Things (IoT) and the Quantified Self are the two most significant trends in mobile technology. Knowing how to develop software that interfaces with hardware via a mobile device is a skill every mobile developer should possess. Fortunately, many open source hardware solutions exist such as Arduino, Raspberry PI, RedBoard and a few others, which provides developers an opportunity to cultivate a thorough understanding of electronics and learn how to integrate them using software. This discussion will focus on Arduino since it is the most prominent of these solutions.",
+            "speaker": "Bryan Jones Richardson"
+        },
+        {
+            "title": "Communicating with Android Devices",
+            "description": "Android apps need to be notified of server side events as well as update the server with their state.  This talk will survey several options as well as go into detail for push using Google’s Firebase Cloud Messaging.",
+            "speaker": "Summers Pittman"
+        },
+        {
+            "title": "Kotlin for the Busy Android Developer",
+            "description": "Android has been the most widely installed mobile operating system in the world since 2013. It’s an awesome platform and its open source code, which can be used on various different devices, has made it a popular choice for many projects and applications. That said, for developers, Android does have one Achilles heel: Java. The release of Kotlin 1.0 offers a compelling alternative. But, it is a good idea to use it? Let’s take a tour of Kotlin with code samples, cat pictures, and a little bit of live coding. Learn how to put your codebase on a diet and improve its readability by converting your existing classes to Kotlin. See how you can improve your code quality by using the built-in null safety, and how to make unit testing more pleasurable by using the Spek framework. Along the way, we’ll share tips and tricks for using Kotlin in production apps. By the end of this talk you’ll have enough knowledge to confidently start to use Kotlin in your Android projects.",
+            "speaker": "Lance Gleason"
+        },
+        {
+            "title": "Let's talk about R.B.A.C.: Handling authorization in NodeJS",
+            "description": "Although many of us have used Passport to handle authentication and to a lesser extent authorization, how can we perform more fine grained controls over our features in our application? In this talk we'll discuss some ideas around RBAC and how we can use some of the built-in features of Express to handle these types of authorizations.",
+            "speaker": "Josh Backfield"
+        },
+        {
+            "title": "Introduction to Office Graph with Node.js",
+            "description": "Overview of using Office Graph API with Node.js to access and manipulate Office 365 data",
+            "speaker": "Kristin Ottofy"
+        },
+        {
+            "title": "You Too Can Build a Bot: Programming Bots in Node.JS For Beginners",
+            "description": "From Google to Disney, Slack and Facebook, enterprise and consumer, conversational bot interfaces are a hot new trend for 2016. You may think that bots are difficult to program, but with knowledge of Node.JS, they're a lot simpler than you think. Come and learn how to build your first bot.",
+            "speaker": "Anthony Jesmok"
+        },
+        {
+            "title": "Creating Robust Cloud Services using Node.js",
+            "description": "Cloud services enable mobile apps to have many modern features, such as user accounts, profiles, authentication, and persistent data. This lecture will discuss how to create a scalable infrastructure that provides platform-agnostic REST-based services and how to connect them to iOS applications. Server-side frameworks and libraries include Node.js, Express, MongoDB, Passport, and Composable-Middlewares. We will show the end-to-end solution by building an iOS app, using Swift and Alamofire.",
+            "speaker": "Stephen Schwahn"
+        },
+        {
+            "title": "I have a NoSQL toaster",
+            "description": "NoSQL is a catch-all term that covers a lot of different types of data storage. Is it really helpful to group them together by one thing they don't have? Think about it like this: my toaster is as much NoSQL as any database! So, how can we make more sense of this new breed of database management systems?",
+            "speaker": "Matthew Groves"
+        },
+        {
+            "title": "You Don't Know Node",
+            "description": "Node.js is quickly capturing the programming world not just in web, but in IoT, drones, robots and embedded systems. This talk dives deep into the core mechanisms of the Node.js platform and some of its most interesting features. We will brush-up on the core concept which enables the non-blocking I/O. We will discuss streams and buffers, and/or effective ways to work with data. Then we'll have a crash course about event emitters. We will level up our knowledge on how to fork like a pro. We will also discuss AsyncWrap, Domain and uncaughtException. We will also dive into to the core and you'll learn writing your own C++ addons. If you are a geek like most of us, then you’d appreciate this presentation. You’ll become more confident in the internals of Node.js and understand how certain things work.",
+            "speaker": "Azat Mardan"
+        },
+        {
+            "title": "Why Node.js is Ready for Enterprise",
+            "description": "Node.js and JavaScript are increasing its presence in enterprise software engineering and this is why Node is ready for its prime time in enterprise.",
+            "speaker": "Azat Mardan"
+        },
+        {
+            "title": "Horizontally Scaling Node.js and WebSockets",
+            "description": "Underneath every breakout website or app is a horizontally scaling back-end, but how do we get from a single process Node.js server to a highly-available, auto-scaling system? In this talk, we’ll take a high level look at a full production stack before getting our hands dirty with the secret sauce: Node.js, WebSockets and Redis. Through a live coding demo, you’ll learn how to take a single-server app and scale it infinitely. Walk away with a better conceptual understanding of high-scale web systems and practical tools to start implementing these techniques in your own projects today.",
+            "speaker": "James Simpson"
+        },
+        {
+            "title": "Introduction to LoopBack",
+            "description": "An introduction to building APIs with the open-source framework, LoopBack. Some familiarity with APIs and Node.js in general is suggested.",
+            "speaker": "Raymond Camden"
+        },
+        {
+            "title": "Introduction to npm as a Build Tool",
+            "description": "Grunt and Gulp are the heavyweights in the JavaScript build tool landscape. These tools can automate almost anything you find yourself doing repeatedly in a project, from minifying and concatenating source files, to running tests or compiling code. But the question is, do you need them? npm’s script directive can do everything that these build tools can, more succinctly, more elegantly, with less package dependencies and less maintenance overhead. In this session I will discuss what npm is capable of as a build tool.",
+            "speaker": "Jennifer Bland"
+        },
+        {
+            "title": "Developing IOT and Smart Devices at Scale with the Cloud",
+            "description": "This session will cover how to develop secure, scalable, IoT cross-device solutions with Node.js IoT frameworks like Johnny Five as well as, building data backend for your IoT and Smart Devices with the Cloud.",
+            "speaker": "Tara Walker"
+        },
+        {
+            "title": "IOS in the Enterprise: App distribution and other advanced topics",
+            "description": "The enterprise environment is different than a commercial or consumer facing development effort. In this intermediate level workshop workshop, we'll cover these topics and take a deep dive into the challenges facing enterprise app developers: Monitoring the app in the field, Enterprise UX concerns, Privacy concerns, APIs and capabilities you'll only use in the enterprise, Enterprise deployment walled garden, Advanced problem solving for application design and performance",
+            "speaker": "Carol Shepherd"
+        },
+        {
+            "title": "AngularJS 2 and TypeScript Workshop",
+            "description": "SKILL LEVEL: INTERMEDIATE\nPREREQUISITES: Working knowledge of JavaScript.\nTICKET MUST BE PURCHASED SPECIFICALLY FOR THIS WORKSHOP IN ADDITION TO MAIN CONFERENCE TICKET.\n\nThis is a hands-on workshop, you will need your laptop. Workshop instructions will be sent before the event.\n\nAngularJS is the incredibly popular framework for building single-page web applications. Version 2.0 is a major leap from the 1.x version designed to address shortcomings in the original 5+ year old framework and to embrace modern browsers and language features. It is being written using TypeScript, a superset of JavaScript that allows you to build code using next generation features and compile it to JavaScript that will run on current browsers. In this session Jeremy Likness goes hands-on to show you how to set up your environment and build your first application while teaching you about the advantages of the framework and language based on his years of in-the-field experience architecting enterprise Angular applications.",
+            "speaker": "Jeremy Likness"
+        },
+        {
+            "title": "Practically functional programming",
+            "description": "Functional programming is all the rage these days, but our codebases, libraries, and built-in methods are predominately Object-Oriented. Using OO syntax with functional constructs, we can write in a style compatible with either paradigm and enjoy the benefits of both.",
+            "speaker": "Brian Lonsdorf"
+        },
+        {
+            "title": "ES6 (and beyond) Workshop",
+            "description": "The EcmaScript standard is now on a yearly release cycle. With ES6 complete and ES2016 ratified, we have a ton of awesome new features to use in our daily software development. In this training, we'll learn about the features you're likely to use and benefit from on a day-to-day basis. In the afternoon, we'll take an existing application and update it to leverage these features using with modern tools like Babel. My goal is that after this training, you'll be able to go back to your projects and add these tools so you can write ES.next code today.",
+            "speaker": "Kent C. Dodds"
+        },
+        {
+            "title": "Up and Running with Ionic v2",
+            "description": "In this workshop you will be introduced to the Ionic v2 framework, a powerful hybrid mobile solution. Built atop of Angular 2 and Apache Cordova, this framework gives developers an incredibly powerful set of mobile components to create app store-ready apps.",
+            "speaker": "Mike Hartington"
+        },
+        {
+            "title": "Advanced JavaScript: Foundations",
+            "description": "In this one-day intensive course, we will dive deep into core mechanisms of the JS language, probably more than you ever have before. Our goal is to not merely understand what these things do, but how and why. We will cover: • nested lexical scope • hoisting • closures • modules • 'this' keyword • common oo patterns • object prototypes • delegation vs inheritance",
+            "speaker": "getify"
+        },
+        {
+            "title": "Animating the User Interface: Designing for Motion",
+            "description": "From transitions to loaders, user interfaces are coming alive with motion like we've never seen before. Animation, or “motion design,” has become an essential part of the designer’s toolkit for expressing fundamental interaction design principles. In this workshop, the instructor will show how the aims of interaction design are fulfilled through animation and will discuss what to consider when using animation in your own designs. Through discussion and hands-on implementation, attendees will learn to design and prototype animation using tools like Keynote, Principle, Pixate, or Invision.",
+            "speaker": "Angie Terrell"
+        },
+        {
+            "title": "Workshop: Modern Applications with Aurelia",
+            "description": "Aurelia is a next generation JavaScript client framework for mobile, desktop and web. It's the most standards-compliant, highly performing and simplest technology of its kind today. In this course you'll have an opportunity to learn directly from Aurelia's architect and project lead, Rob Eisenberg. He'll teach you how to create modern web applications using an MVVM approach with Aurelia. You also will learn how to extend HTML with custom elements and attributes, how to handle client-side routing and even cover best practices in project organization, maintenance and deployment.",
+            "speaker": "Rob Eisenberg"
+        },
+        {
+            "title": "React.js Hands-on workshop",
+            "description": "SKILL LEVEL: INTERMEDIATE \nPREREQUISITES: Working knowledge of JavaScript. \nTICKET MUST BE PURCHASED SPECIFICALLY FOR THIS WORKSHOP IN ADDITION TO MAIN CONFERENCE TICKET.\n\nReact.js is a view library from Facecbook for building performant user-interfaces in JavaScript. In this session, we'll explore React.js and understand why it's a great step forward for building complex UI's that run fast. We'll code up an example web application using React.js and step through the basics of using the library while discussing concepts like the virtual DOM and components.\n\nThis is a HAND-ON WORKSHOP, INTRODUCTORY LEVEL. Please come with a laptop, and if possible, with the software needed pre-installed (Instructions below). We'll cover these topics - both in code and in discussion format, and do as many as we can in the time alloted:\n\nReact components\nLifecycle\nProperties\nState\nUsing React-Bootstrap components\nSignaling & Messaging between Component\nHandling Events\nAll coding done in ES6 style\nModern React application structure, setup, and build\nWriting tests\nReact Router\nDiscussion of Flux architecture\nREST/Network ops within React\nReact architecture\nComponent composition\nDiscussion of Redux and Functional Web Architecture (time permitting!)",
+            "speaker": "Andrew Smith"
+        },
+        {
+            "title": "Thinking in Swift for iOS",
+            "description": "This fast-paced workshop shows you how to take advantage of Swift features to write more robust code that is easier to reason about. We’ll spend a good part of the day looking at functional programming and playing with map, filter, reduce, and flatmap but we will also create instances of classes, structs, and enums. We’ll explore how your iOS app architecture may change when you embrace idiomatic Swift.",
+            "speaker": "Daniel Steinberg"
+        },
+        {
+            "title": "A Journey in Web VR",
+            "description": "This talk discusses the challenges around developing a Web VR project that has a strong emphasis on accessibility and DIY.",
+            "speaker": "Dee Del Rosario"
+        },
+        {
+            "title": "Thinking Differently About Web Performance",
+            "description": "Performance is vital to success on the web, but it is often thought of in terms of load time rather than what happens when a user actually starts using your web app. In this talk, we’ll take an in-depth look into the tools and techniques you can use from right within your browser to help your web app match its native counterparts. We’ll walk through several live demos of real-world performance issues and their solutions, from CPU bottlenecks to page crashing memory leaks. You’ll walk away better understanding the tools at your disposal and how to apply those to up the game of your current or upcoming projects.",
+            "speaker": "James Simpson"
+        },
+        {
+            "title": "Why poor UX and performance are bouncing your website visitors, and what to do about it.",
+            "description": "Everyone knows fast sites provide a better UX and have happy users which generate more revenue. But since there are literally hundreds of issues that could be slowing down your pages, How do you figure out (and fix) the ones that are hurting your business most?\n\nUsing data from the Top IR200 retail sites, Billy will show attendees how to:\n\n-Gather historical user data via RUM\n-Correlate load times with conversions\n-Determine which pages in your site are most impacting your business goals.\n-Show the top 10 issues that create the biggest bounce rates on the top retail sites on the web.\n\nNo doubt you’ve encountered scores of lists outlining the top performance issues faced by sites. Unlike those lists, this list is grounded in a study of revenue/business impact. Using this approach, you can focus on fixing the performance defects that are hurting you most on the pages that matter the most.",
+            "speaker": "Billy Hoffman"
+        },
+        {
+            "title": "Developing Web Applications: Standards, Best Practices and Tools",
+            "description": "Web developers have a range of tools and choices available to create solutions for the continuum of browsers and devices. Responsive web design, microservices, security, HTML5 video, HTTP/2, containers, and web performance are some of the pertinent topics when developing web applications. This session will cover web industry standards, best practices, and frameworks related to these and other emerging web technologies.",
+            "speaker": "Ian Moraes"
+        },
+        {
+            "title": "Perf Session hold (WH)",
+            "description": "Perf Session hold (WH)",
+            "speaker": "Pratik Patel"
+        },
+        {
+            "title": "Creating meaningful HTML and CSS",
+            "description": "Creating meaningful HTML and CSS : The BEM way!",
+            "speaker": "Rachita Joshi"
+        },
+        {
+            "title": "Web-based Virtual Reality",
+            "description": "Virtual reality (VR) is an amazing medium that helps create immersive stories for nearly any industry, from journalism to manufacturing to gaming.  Virtual reality hardware systems like Google Cardboard, Oculus Rift, Samsung Gear and others are starting to making VR a household name.  On the software side, most of the activity is confined to native applications, but the web can bring major advantages to VR that only increase the accessibility of this platform, including experiencing VR without downloading and installing apps and allowing seamless connections from one experience to another via hyperlinks.  This session will examine the technologies bringing VR to the web including Google’s VR view & VR shell, Mozilla VR and  WebVR, a vendor--vendor-independent web standards for VR.",
+            "speaker": "Erica Stanley"
+        },
+        {
+            "title": "Whirlwind Tour of HTML5",
+            "description": "HTML and JavaScript have come a long way since the dark days of IE's domination of the browser market. In this talk, Jordan Kasper will introduce you to some of the exciting new features in HTML5 that we can implement right now in our applications! We'll look at capturing the user's camera data, accessing their location, reading the file system, native drag and drop, and even vibrating their phone! Join us for a session of fun demos and new experiences. Attendees will walk away from this session with some ideas about how to make your web applications even more amazing with these new APIs.",
+            "speaker": "Jordan Kasper"
+        },
+        {
+            "title": "Leave No One Behind: Building Accessible Web Applications",
+            "description": "Over 50 million adults in the US have a disability, and some of them want to use your web site. Can they? This session will not only help you answer that question, it will help you answer \"Yes.\" Join us as we learn how to build web applications accessible to everyone.",
+            "speaker": "Stephen A Thomas"
+        },
+        {
+            "title": "Getting Started with Jekyll for Static Sites",
+            "description": "Static sites offer fantastic benefits in things like security and performance. Static site generators have made it easier to build and maintain static sites. Jekyll is the most widely used and, in my opinion, the best overall option for static site development. In this session, we'll cover how to get started with Jekyll to build, customize and maintain a static site.",
+            "speaker": "Brian Rinaldi"
+        },
+        {
+            "title": "CSS from the Future",
+            "description": "For years, we’ve relied on preprocessors to simplify CSS development, but the time is coming when we won’t need this anymore. Variables, mixins, mathematic calculations, color manipulation, and nested selectors are all in the official specification, at various stages of development. Nearly every feature provided by SASS and LESS is coming to the browser. Some of it has already arrived. Some of it is even more powerful than the preprocessor you are used to.\n\nIn this talk, I’ll show you how all these features work. And I’ll show you how, using the PostCSS processor, you can transpile this future syntax into code you can use today. Come take a glimpse at what the future of CSS holds.",
+            "speaker": "Keith J Grant"
+        }
+    ],
+    "speakers": [
+        {
+            "name": "Jordan Kasper",
+            "bio": "Shortly after it arrived at his home in 1993, Jordan began disassembling his first computer - his mother was not happy. She breathed more easily when he moved from hardware into programming. Jordan's experience includes development at startups, agencies, Fortune 100 companies, and universities, as well as numerous open source projects. He has coded in many languages from BASIC to Java to PHP and most recently JavaScript and Node.js. He speaks regularly at (and helps organize) local user groups, conferences large and small, and hackathons. Jordan's primary mission for over 10 years has been to evangelize technology of all sorts and share what he has learned to help others grow. He is currently a front-end engineering instructor with The Iron Yard in Washington, DC. In his down time he enjoys puzzles of all sorts and board games!"
+        },
+        {
+            "name": "Tim Whitacre",
+            "bio": "I've been living in ATL for a little over 2 years. I am the director of Front End Engineering at The Iron Yard Atlanta."
+        },
+        {
+            "name": "Giovanny Gongora",
+            "bio": "I'm Giovanny Gongora, aka Gioyik. I am Porting Developer at Mozilla. Javascriptero since creation of the universe. Time ago translator at Tor Project and Security tester. I enjoy trying new things like Rust and Go, sometimes creating custom languages and working on my own projects.\n\nI give talks about web technologies, open source, net neutrality, programming languages that suck and how cats will control the world in the future."
+        },
+        {
+            "name": "Nick Larsen",
+            "bio": "Nick Larsen is a performance oriented developer for the Stack Overflow data team.  He is a husband, a father and graduate student at GA Tech."
+        },
+        {
+            "name": "Burk Hufnagel",
+            "bio": "Burk is a long-time programmer and software architect, with experience in multiple languages including Java and JavaScript. He’s presented at multiple conferences including DevNexus and JavaOne, and contributed to two of the “97 Things” books published by O’Reilly. He works as a Technical Architect for Daugherty Business Solutions where he's focused on finding ways to deliver better code in less time, teaching others how to do the same thing, and looking for ways to improve his skills and the skills of his team."
+        },
+        {
+            "name": "Patrick Seda",
+            "bio": "Patrick is CTO of Colligo Vox, a Mobile solutions consulting company based out of Atlanta. With over 25 years of professional experience, he orchestrates and implements successful mobile initiatives. Ranging from enterprise behemoth applications to children’s educational games, his focus is delivering bullet-proof, awesomely kickass apps."
+        },
+        {
+            "name": "Jonathan Martin",
+            "bio": "Jonathan is a cheesecake-loving Developer & Instructor at Big Nerd Ranch, where he sheds bikes in Rails or bores students with the “wats” of JavaScript in the Ranch’s immersive front-end bootcamp."
+        },
+        {
+            "name": "Corinna Cohn",
+            "bio": "Corinna Cohn has been creating websites since 1995 and has written web apps for radio stations, research projects, scientific publishing, and business-to-business clients. Over the past several years, Corinna has worked with Backbone, Ember, and Angular to design and write single-page applications. Corinna has written ugly, unmaintainable code but is now working to bring the principles of clean code, unit tests, and high-quality refactoring into the realm of JavaScript web application"
+        },
+        {
+            "name": "Joe Conway",
+            "bio": "Joe Conway is the founder and CEO of stable|kernel, an Atlanta-based mobile software company offering end-to-end development services to craft smartly-designed mobile applications that connect brands directly with their users – across tablets, smartphones, desktops, wearables and the Internet of Things. For the past 16 years, Joe has programmed everything from Mac OS X to Android to iOS. As a former instructor and lead developer at Big Nerd Ranch, he fine-tuned his skills and expertise in overall mobile strategy, specializing in iOS Development. The author of iOS Programming: The Big Nerd Ranch Guide, an Amazon best seller, Joe quickly made a name for himself in the mobile space. He has worked with Fortune 500 companies, technology start-ups and government entities to build mobile platforms, enhance existing applications and develop mobile strategies."
+        },
+        {
+            "name": "Stephen M. Carlson",
+            "bio": "Full-stack Software Engineer obsessed with writing high quality, maintainable and extensible code. Agile evangelist, technology leader and entrepreneur."
+        },
+        {
+            "name": "Josh Teague",
+            "bio": "Head of Design at FullStory, previously at Google."
+        },
+        {
+            "name": "Stephanie Brubaker",
+            "bio": "Stephanie Brubaker is a full stack engineer at FullStory, a Customer Success platform that lets companies easily record, replay, search, and analyze each user’s actual experience with their website. With a primary focus on frontend web development, she works closely with the FullStory design team to turn their brilliant designs into high-leverage UIs. Stephanie was previously an engineer at Google, where she worked on the Google Web Toolkit and complex version control systems. She has a CS Masters degree from Georgia Tech and finds soldering fun and relaxing."
+        },
+        {
+            "name": "Mike Gorgone",
+            "bio": "I have 20+ years in the software industry with the last 4 years focused on User Experience Design, collaboratively executing large enterprise-level web initiatives. I enjoy working with teams that, truly create TOGETHER, solutions that best solve the problem at hand. I feel immense pain when I see or use a website with a poor user experience. I want the web to be great and I want my teammates to be great as well and I do everything I can to make them look like Rock Stars."
+        },
+        {
+            "name": "Jad Joubran",
+            "bio": "Very early on, at the age of 19, Jad Joubran founded eTobb. Nowadays, his experience mentoring developers across different channels, and coaching Web Development in Amsterdam, Brussels & Lisbonwith Le Wagon."
+        },
+        {
+            "name": "Nicole Saidy",
+            "bio": "I'm a web designer with a passion for creating beautiful design solutions for the digital world with knowledge in web, mobile, front-end development & more."
+        },
+        {
+            "name": "Tamil Periasamy",
+            "bio": ""
+        },
+        {
+            "name": "Will Jayroe",
+            "bio": "Will Jayroe is a multi-disciplinary professional specializing in Solutions Architecture, User Interface and Front-End Technology consulting, User Experience strategy, Visual and Interaction Design."
+        },
+        {
+            "name": "Josh Marinacci",
+            "bio": "Josh is an O’Reilly author, developer advocate, and recovering engineer. He is the technical marketing manager at PubNub. Previously he worked as a developer evangelist at Nokia, Palm / HP, and Sun. He is passionate about user interfaces and education. Josh lives in sunny Eugene, Oregon."
+        },
+        {
+            "name": "Grant Davies",
+            "bio": "Grant Davies, CEO of Bluetube, has an extensive background in technology development with a passion for researching and predicting future technology trends. Before founding Bluetube in 1999, Grant worked for two decades as a developer and architect. Since then, he’s built innovate digital solutions for global 2000, nonprofit and mid-market clients in industries including healthcare, manufacturing, consumer products, arts and entertainment."
+        },
+        {
+            "name": "Andrew Malek",
+            "bio": "Andrew is a UI developer and occasional designer at NCR, focusing on POS (point-of-sale) and clienteling solutions. He has two decades of development experience in languages such as JavaScript, Visual Basic, Python, and C, and will admit to having developed a content management solution with Delphi and Perl if backed into a corner."
+        },
+        {
+            "name": "Rob Eisenberg",
+            "bio": "Rob Eisenberg is a JavaScript expert working out of Tallahassee, FL and he is the CEO of Durandal Inc. Rob got his start with computer programming at the age of nine, when he thoroughly fell in love with his family's new Commodore 64. His fascination with programming started with the Commodore Basic language, then moved to Q Basic and QuickBasic and quickly continued on to C, C++, C# and JavaScript. Rob publishes technical articles regularly at http://eisenbergeffect.bluespire.com and has spoken at regional events and to companies concerning Web  technologies, Agile software practices and UI engineering. He is the creator of the Durandal and Caliburn.Micro frameworks. He’s formerly a member of the Angular 2.0 Core Team at Google, before leaving to return to work on Durandal and it’s next generation platform: Aurelia."
+        },
+        {
+            "name": "Dylan Schiemann",
+            "bio": "Dylan Schiemann is CEO of SitePen and co-founder of the Dojo Toolkit."
+        },
+        {
+            "name": "Bob Holben",
+            "bio": "Bob is an engineer who's career has centered around R&D and manufacturing in both the physical world and the software world.  With experience launching 3 companies, Bob's recent passion has been with JavaScript and Angular."
+        },
+        {
+            "name": "Pearl Latteier",
+            "bio": "Pearl Latteier is a software engineer at Bendyworks in Madison WI. For the past several years, she has focused primarily on building data-intensive JavaScript applications for web and mobile, most recently with React JS and React Native. She is also experienced with server-side technologies including Ruby on Rails, Node, and PHP. Before becoming a software developer, Pearl earned a PhD in from the University of Wisconsin-Madison, where for five years she taught courses in the Department of Communication Arts."
+        },
+        {
+            "name": "John Mercer",
+            "bio": ""
+        },
+        {
+            "name": "Delicia Brummitt",
+            "bio": "Delicia is a tech generalist that has worked as web designer to DBA, Software Engineer to QA.  With a motto of “Work Smarter not Harder”, she is driven to finding elegant solutions that make life easier. \n\nDelicia is currently working as a Software Engineer at UPS."
+        },
+        {
+            "name": "Brian Lonsdorf",
+            "bio": "Brian Lonsdorf is functional programmer who uses JavaScript all day at work. Sometimes he is known as that “underscore talk guy” or the author of the Mostly Adequate Guide to Functional Programming. He is a Frontend master™, a panelist on jsair, makes stop motion videos, and writes his own bios."
+        },
+        {
+            "name": "Todd Gandee",
+            "bio": ""
+        },
+        {
+            "name": "Chris Morrow",
+            "bio": "I'm a Senior UI Developer, currently specializing in Data Visualization at The Weather Company. I constantly seek new coding best practices and workflows. I love to learn and I love to teach. I am thankful for those that helped me learn to code better throughout my career, and I enjoy giving back and helping others. I've used a number of web technologies including JavaScript, NodeJS, AngularJS, KnockoutJS, Aurelia, D3, jQuery, SASS/CSS, HTML, and even Flash, and Flex."
+        },
+        {
+            "name": "Ben Vinegar",
+            "bio": "Ben Vinegar is a software engineer at Sentry, and the co-author of Third-party JavaScript. He lives and works in San Francisco."
+        },
+        {
+            "name": "Jeremy Likness",
+            "bio": "Jeremy is the director of application development and principal architect at iVision, a technology services company that leverages data center, converged infrastructure, engineering support services, delivery assurance, and application development practices to engineer the future for clients, today. Jeremy wrote his first program in 1982, was recognized in the \"who's who in Quake\" list for programming the first implementation of \"Midnight Capture the Flag\" in Quake C and has been developing enterprise applications for 20 years. For the past 15 years he has specialized in web-based delivery of line of business applications. Jeremy is the author of four technology books, a six year Microsoft MVP for Windows Platform Development, a Telerik Kendo UI Developer Expert, and speaks and writes regularly on web-based topics such as AngularJS. Jeremy is vegan and spends most of his free time running, hiking and camping with his family, watching retro science fiction movies with his daughter and playing 9-ball and one pocket."
+        },
+        {
+            "name": "K. Devin McIntyre",
+            "bio": ""
+        },
+        {
+            "name": "Peter Pavlovich",
+            "bio": "Peter is the Chief Architect at Dispatch Technologies, developers of the most powerful on-demand services platform and is based in Boston, MA.\n\nBefore joining Dispatch, Peter was the Principal Architect for EnerNOC Labs, a dedicated R&D group within EnerNOC, a Global provider of Demand Response and Energy Inteligence software located in Boston, MA. \nPrior to EnerNOC, Peter was a Principal Cloud Engineer with Kronos Incorporated, a global provider of on-premise and cloud-based workforce management solutions. Before Kronos, Peter held the position of Technical Director with Brokat Technologies, a global provider of mobile payment solutions. Prior to that, Peter was a Sr. Architect with GemStone Systems, providing distributed, enterprise-ready data grid and object persistence solutions and J2EE application server technologies."
+        },
+        {
+            "name": "Minko Gechev",
+            "bio": "Minko is a functional time-traveler and freelance software engineer with a passion for open source. He loves to experiment with theoretical concepts and apply them in practice. Minko teaches, speaks and writes about JavaScript and Angular. Some of the projects he works on are “Switching to Angular 2”, codelyzer, angular2-style-guide and many others. Currently changing education with Learn Capital."
+        },
+        {
+            "name": "Shawn Johnson",
+            "bio": "Lover of all things mobile. Founding Hero @ Mobile App Hero, Mobile Instructor @ Gerneral Assembly."
+        },
+        {
+            "name": "Patrick Childers",
+            "bio": ""
+        },
+        {
+            "name": "Bradford Dillon",
+            "bio": "Bradford Dillon enjoys writing code that makes writing code more enjoyable. He’s been building apps since iPhone OS 2.0, and is a Senior Technical Architect at POSSIBLE Mobile's growing Atlanta office. He spends the majority of his spare time learning new ways to entertain his kids."
+        },
+        {
+            "name": "James Majors",
+            "bio": "iOS developer at POSSIBLE Mobile."
+        },
+        {
+            "name": "Jesse Black",
+            "bio": "Jesse Black brings nine years of programming experience to stable|kernel as a software engineer. His passion for programming stems from a love of logic and a need to automate tedious paperwork responsibilities while working for his family’s business. Jesse has a bachelor’s degree in mathematics from New York University. When he's not solving clients needs, he enjoys dusting off old mathematics textbooks, learning Dart and going to see live music."
+        },
+        {
+            "name": "Florian Harr",
+            "bio": "Florian Harr is a software engineer specializing in iOS at an Atlanta-based, mobile app development company called stable|kernel. Since working for stable|kernel in early 2016, he has worked on multiple client projects that expanded his iOS, IoT and project management skills. In his free time, he’s a scuba diver and an electric unicycle driver."
+        },
+        {
+            "name": "Marlene Jaeckel",
+            "bio": "Marlene Jaeckel fell in love with software development during her first year at the University of Pretoria in South Africa, even though she was actually a business major. After moving to California in 2001, she worked on web applications and database systems until she decided to pursue her lifelong dream of a career in medicine. Along the way, however, she realized that her true passion lies in connecting technology and healthcare, which is why she now loves to work with wearables, sensors, and smart devices as a member of the mobile development team at Polyglot Programming. When she’s not coding, she’s often found in craft stores, doing genealogy research, or explaining the origins of her accent. (Hint: She’s so German that she loves both Hasselhoff and Heino.)"
+        },
+        {
+            "name": "Marcus Smith",
+            "bio": "iOS Developer at stable|kernel in Atlanta."
+        },
+        {
+            "name": "Carol Shepherd",
+            "bio": "Carol is an Enterprise Mobile Application Designer/Developer for CBS Corporate IT. She doesn't have an app in the App Store or an open source project in GitHub and probably never will. Her projects are intended for use within the walled garden that pampers corporate professionals. She has worked as a professional in the IT industry since her sophomore year in college. She holds a BS in Computer Science with an emphasis in Artificial Intelligence and MS in Information Design and Communication. If you'd like to start a personal conversation ask her about her hobby -- raising Flemish Giant rabbits."
+        },
+        {
+            "name": "Clint Ayres",
+            "bio": "I'm a front end web developer for ICE here in Atlanta. I've been working with React for since beginning of 2014. I advocate FLUX and Immutable data when working with React. I am always looking for new patterns that further separate concerns in React components.  This conference I hope to share all the lessons learned from the past two years and explain how to build high performance and maintainable React applications."
+        },
+        {
+            "name": "Brian Vaughn",
+            "bio": "Front-end engineer and song-writer. Working with React at Treasure Data; formerly working with Angular at Google."
+        },
+        {
+            "name": "Tim Dorr",
+            "bio": "Tim is CTO at Showcase IDX. His open source work with React Community (formerly Rackt) focuses on React Router, Redux and webpack-preset. He also reverse-engineered the Tesla Model S API so he can control his car from his watch. Hailing from Atlanta, you may catch him around town DJing your favorite party or biking along the Silver Comet Trail."
+        },
+        {
+            "name": "Kent C. Dodds",
+            "bio": "I am Kent C. Dodds. I work at PayPal as a full stack JavaScript engineer. I host JavaScript Air, the live video broadcast podcast about JavaScript and the web platform. I spend a bit of time on GitHub and Twitter. I’m an Egghead.io instructor and Google Developer Expert. I’m happily married and the father of three kids. I like code. I care about craft, design, tools, and architecture. I like to talk about it. Come chat with me :-)"
+        },
+        {
+            "name": "Ben Ilegbodu",
+            "bio": "Ben is a Christian, a husband and a father with over 10 years of experience developing for the Web. He currently is a Senior UI Engineer on Eventbrite’s Frontend Platform team. On the side, Ben also enjoys playing basketball, watching movies, and blogging / tweeting about his experiences with new web development technologies."
+        },
+        {
+            "name": "Jonathan Kemp",
+            "bio": "Jonathan is a Senior Front End Developer at Scripps Networks Interactive working with a team of developers on the websites for their portfolio of popular lifestyle brands including HGTV, DIY Network, and Great American Country."
+        },
+        {
+            "name": "Andrew Smith",
+            "bio": "Software craftsman, Agile enthusiast and practitioner of TDD, I am passionate about creating quality software. As a strong subscriber to the SOLID principles and TDD, I strive to develop with agility. A student at heart, I also teach to aid others in their journey. I firmly believe in continual growth and am constantly in pursuit of improvement in all things I do."
+        },
+        {
+            "name": "Taggart Bowen-Gaddy",
+            "bio": "Taggart is a front end developer passionate about the future of the browser and building powerful web applications.  He is a believer in declarative, functional, human-readable code and abstractions that make our lives as developers easier."
+        },
+        {
+            "name": "Kevin Old",
+            "bio": "Kevin Old is a full stack, but frontend focused, Senior Software Engineer living White House, TN. He's a huge fan of coffee, micro-roasters and the entire ecosystem around single origin coffee. When he is not developing software he enjoys spending time with his wife, 2 sons, 2 dachshunds and cat."
+        },
+        {
+            "name": "Paul M. Jones",
+            "bio": "Internationally-recognized PHP expert; PHP-FIG founding member; primary author on PSR-1, PSR-2, and PSR-4; author of Modernizing Legacy Applications in PHP; lead on the Aura and Radar projects; defined the Action-Domain-Responder pattern."
+        },
+        {
+            "name": "Emily Stamey",
+            "bio": "Emily is a developer at NC State, supporting the College of Engineering. She learned PHP in 1999 and discovered a whole new world of fun and programming. This started her passion for Open Source! In her free time she enjoys music, legos, making things, playing games, and socializing. She is an active volunteer in the community as an Organizer of TrianglePHP and Girl Develop It. She really enjoys helping people share ideas and learn together, which has led to her speaking at conferences."
+        },
+        {
+            "name": "Chris Church",
+            "bio": "I lead systems engineering and architecture at Patientco, a healthcare payment technology company.  I ensure that Patientco’s SaaS solution operates reliably, securely, and seamlessly."
+        },
+        {
+            "name": "Mike Schinkel",
+            "bio": "Mike is a life-long programmer and entrepreneur hailing from Georgia Tech who appreciates the marketshare gained by WordPress and thus specializes in using it as more of a development platform than just a CMS. Thus his team created the open-source project named WPLib which they position as \"The Developer Experience Project for WordPress.\""
+        },
+        {
+            "name": "Eli White",
+            "bio": "Eli has been building Web Applications for 20 years and fell in love with PHP the day that PHP 4 was released. Since then he's been a strong advocate for PHP and used it in every project he's worked on.  He is currently the Vice President of One for All Events LLC, and Conference Chair for php[architect]. He is a strong advocate for \"Just getting it done\" when it comes to coding, and speaks at numerous conferences each year."
+        },
+        {
+            "name": "Larry Garfield",
+            "bio": "Larry Garfield is a software architect, PHP guru, Drupal core developer, Drupal ambassador, correctness nerd, and all around (mostly) lovable pedant on the subjects of software engineering and computer science."
+        },
+        {
+            "name": "Anthony Green",
+            "bio": "Anthony is the lead developer at AVAS Technology, where he focuses on building web applications for situations where data security is of the utmost importance. He works primarily in PHP, having experience with most of the major content management systems and frameworks in the language. Most of his time is now focused on developing on the StoneHilt platform."
+        },
+        {
+            "name": "Nic",
+            "bio": ""
+        },
+        {
+            "name": "Jen Looper",
+            "bio": "Jen Looper is a Developer Advocate at Telerik with over 13 years' experience as a web and mobile developer, specializing in creating cross-platform educational and fitness-oriented mobile apps. She's a multilingual multiculturalist with a passion for hardware hacking and learning new things every day. Visit her online at http://www.ladeezfirstmedia.com, or via Twitter @jenlooper."
+        },
+        {
+            "name": "Edwin Huertas",
+            "bio": "Taming the mobile monster @ http://Shockoe.com"
+        },
+        {
+            "name": "Mike Hartington",
+            "bio": "Ionic Developer, open source contributor, beer lover. Based out of beautiful Rhode Island."
+        },
+        {
+            "name": "James Prolizo",
+            "bio": "Being an adopted son of Atlanta, James enjoys contributing back to the community through technology and philanthropy.  James is active in the mobile community as well as nonprofits such as TechBridge and Habitat for Humanity."
+        },
+        {
+            "name": "Mark Mandel",
+            "bio": "Mark Mandel is a Developer Advocate for Google Cloud Platform and one half of the Google Cloud Platform Podcast. Hailing from Australia, Mark built his career developing backend systems for over 15 years and authoring and contributing to several widely adopted open source projects. When he’s not building infrastructure in the cloud, he’s constantly looking for new and interesting things he can do with Docker containers, playing with his dog and reading too much fantasy literature."
+        },
+        {
+            "name": "Jason Kneen",
+            "bio": "Freelance Native Cross-Platform iOS, Android App Developer as @bouncingfish • Speaker • Author • Some DevRel for Appcelerator / Titanium"
+        },
+        {
+            "name": "Dan Callahan",
+            "bio": "Dan Callahan is a Staff Software Engineer in Mozilla's Developer Relations team, where he focuses on Firefox add-ons and the Servo parallel browser engine project. Dan previously worked on the Mozilla Persona project, an attempt at replacing passwords with user-friendly public key cryptography built on open web standards. Dan tweets as @callahad and swears he has every intention to blog at https://dancallahan.info.callahad"
+        },
+        {
+            "name": "Adam Paxton",
+            "bio": "Freelance mobile app developer with Polanco Media in sunny South Florida.  IOS, Android, Appcelerator Titanium"
+        },
+        {
+            "name": "Dr. Doris Chen",
+            "bio": "Doris is a Senior Technology Evangelist at Microsoft for the Western region of the United States, specialized in web technologies (HTML5, jQuery, JavaScript, Ajax, and Java).  \nDoris has over 18 years of experience in the software industry working in several open source web tier technologies, Java platform, .NET and distributed computing technologies. She has developed and delivered over 400 keynotes, technical sessions, and trainings worldwide. She speaks at numerous international conferences and user groups including O’Reilly OSCON, Fluent, Dev Nexus, HTML5 Dev Conference, WebVisions,  JavaOne, SD Forum, and worldwide User Groups. Doris works very closely to create and foster the open source community around Java, NetBeans, Glassfish, and related technologies. Before joining Microsoft, Doris Chen was a Technology Evangelist at Sun Microsystems.\nDoris received her Ph.D. from the University of California at Los Angeles (UCLA) in computer engineering, specializing in medical informatics."
+        },
+        {
+            "name": "Parashuram",
+            "bio": ""
+        },
+        {
+            "name": "Shauvik Roy Choudhary",
+            "bio": "Dr. Shauvik Roy Choudhary is the Founder of MoQuality, where he works on building cutting edge testing and support tools for mobile apps. He also works at FullStory where he builds security & engineering productivity tools. He received his PhD in Computer Science from Georgia Tech and his work was focused on techniques for cross-platform testing and maintenance for web and mobile applications. Prior to his PhD, Shauvik received his MS in Information Security from Georgia Tech and his BE in Computer Engineering from Mumbai University. Over the years, he has held several development, testing and research positions at companies including, Google, Fujitsu Labs of America, Yahoo! Inc., IBM Research, Goldman Sachs and HSBC Software. For more information about Shauvik, visit his website at http://shauvik.com"
+        },
+        {
+            "name": "Ken Kousen",
+            "bio": "Ken Kousen is a technical trainer, software developer, and conference speaker specializing in Java and open source topics, including Android, Spring, Hibernate/JPA, Groovy, Grails, and Gradle. He is the author of the O'Reilly book “Gradle Recipes for Android” and the Manning book “Making Java Groovy”. He also has recorded several video courses for O'Reilly, including two on Android, three on Groovy, two on Gradle, one on Advanced Java, and one on the Spring Framework."
+        },
+        {
+            "name": "David Hope",
+            "bio": "David is the Lead Android Engineer for Streetstop. He is an active member of the local Android community and Toastmasters International."
+        },
+        {
+            "name": "Douglas Knudsen",
+            "bio": "As a Team Lead, Douglas brings over fifteen years of building highly visible solutions in the enterprise and consumer spaces spanning financial institutions such as Nasdaq to educational stalwarts like Pearson to technology giants like RIM. Douglas is currently focused at delivering mobile solutions on the Android platform as well as dabbling in the vast HTML5 based technological arena. Douglas' background in Mathematics is probably fueling his recent interest in Big Data.  In his off hours, you can find Douglas speaking at local user groups on technology in the Atlanta area when not tutoring his kids in fun Mathematics and Science topics."
+        },
+        {
+            "name": "Kristin Marsicano",
+            "bio": "Kristin Marsicano is an Android developer at Big Nerd Ranch, and the co-author of Android Programming: The Big Nerd Ranch Guide.  Prior to working at Big Nerd Ranch, Kristin spent five years teaching introductory Computer Science courses at Georgia Tech.  Always an educator at heart, she is passionate about learning, software development, and the intersection of the two.  When she is not teaching or developing apps, you can find Kristin cooking for her growing family, doing yoga, or learning something new (like gardening)."
+        },
+        {
+            "name": "Matthew Compton",
+            "bio": "Matt Compton is the Lead Android Developer at Luma, where he works to define the next generation of routers. From his home in Midtown, he enjoys playing board games, solving puzzles, and trying out new technology."
+        },
+        {
+            "name": "Bryan Jones Richardson",
+            "bio": "Bryan Richardson is a native of Atlanta, Georgia. After graduating from Morehouse College with a degree in economics, he became interested in software development and currently works as an Android software engineer at stable|kernel, an Atlanta mobile app development company. He is passionate about coding and relishes creating robust, refined and exciting projects of the mobile industry. In his spare time, he enjoys gardening, reading, and listening to NPR."
+        },
+        {
+            "name": "Summers Pittman",
+            "bio": "Summers is a Sr. Software Developer at Red Hat.  He lives in New Haven, CT.  While he lived in Atlanta he was active in the local developer community, AJUG, and DevNexus."
+        },
+        {
+            "name": "Lance Gleason",
+            "bio": "A computer nut since he was a kid, Lance Gleason is the founder and president of Polyglot Programming, a boutique consultancy firm that focuses on mobile and wearable software development. Lance previously worked as a Java developer and software architect for organizations such as Kodak, CNN, and GE. He is a frequent speaker at tech conferences worldwide and is the co-organizer of the Atlanta Sensors and Startups Meetup, Atlanta GDG, Ruby DCamp ZA, and Rubyfuza, the only Ruby conference in Africa. He is known to practice interspecies pair (purr) programming with his orange tabby, Allie, and when he’s not writing code, Lance might be diving with sharks, trekking through Chernobyl, sampling wine, cheering on the Springboks, or perfecting his biltong recipe."
+        },
+        {
+            "name": "Josh Backfield",
+            "bio": "Software engineer who lives on the edge of technology. Constantly looking for new technologies and concepts to apply to everyday programming. Yearns to help disseminate knowledge to others to improve the Computer Science landscape."
+        },
+        {
+            "name": "Kristin Ottofy",
+            "bio": "A Technical Evangelist (TE) on the US DX Audience Evangelism Team uses software development knowledge, technical writing and persuasive presentation skills to inspire students, startups, and developers to build innovative applications using Microsoft’s leading edge technology for a mobile first, cloud first world."
+        },
+        {
+            "name": "Anthony Jesmok",
+            "bio": "Anthony is an experienced web and mobile developer based out of Milwaukee, Wisconsin. My work experience involves contributions to projects for startups, non-profit organizations, higher education, medical technologies, automotive, and other industries in the Milwaukee area, Chicago and beyond. He currently works for Misix, a growing marketing agency, and was previously with Google and a mobile development non-profit."
+        },
+        {
+            "name": "Stephen Schwahn",
+            "bio": "Stephen is a senior at Georgia Tech and the Chief Technical Officer at Plutonium Apps. He has cofounded a total of seven companies and has been playing with computers for more than 8 years. His hobbies include mountain biking, hiking, backpacking, and marching band."
+        },
+        {
+            "name": "Matthew Groves",
+            "bio": "Matthew D. Groves is a guy who loves to code and get involved in the developer community.  He is the author of AOP in .NET, and is also a Microsoft MVP."
+        },
+        {
+            "name": "Azat Mardan",
+            "bio": "Azat Mardan has over 12+ years of experience in web, mobile and software development. Currently, he works as a Technology Fellow at Capital One Financial Corporation. Before, Azat worked at DocuSign, Storify, Lockheed Martin, National Institutes of Health, and Federal Deposit Insurance Corporations a software engineer. He taught technical classes at General Assembly San Francisco and Hack Reactor to much acclaim. In his spare time, he shares his expertise through books and on his blog."
+        },
+        {
+            "name": "James Simpson",
+            "bio": "James Simpson has spent the greater part of his life pushing the web forward by challenging what is possible in a browser. As founder of GoldFire Studios, he has focussed on real-time gaming, high scalability/performance and one of the largest HTML5 canvas games ever built. He is also passionate about open-source as the author of several projects, including the popular howler.js audio library."
+        },
+        {
+            "name": "Raymond Camden",
+            "bio": "Raymond Camden is a developer advocate for IBM. His work focuses on the StrongLoop platform, Bluemix, hybrid mobile development, Node.js, HTML5, and web standards in general. He's a published author and presents at conferences and user groups on a variety of topics. Raymond can be reached at his blog (www.raymondcamden.com), @raymondcamden on Twitter, or via email at raymondcamden@gmail.com."
+        },
+        {
+            "name": "Jennifer Bland",
+            "bio": "Jennifer Bland is a Software Developer for CNN, specializing in MEAN stack development. She has more than ten years of development experience. Jennifer is the author of the book “Developing e-Business Applications Using Lotus Domino on the AS/400\", published by IBM."
+        },
+        {
+            "name": "Tara Walker",
+            "bio": "Tara is a technical evangelist for Amazon Web Services, dedicating her time to help developers build apps, games, and technical solutions in the AWS cloud. Tara has most recently been working on evangelizing mobile, gaming, IoT, serverless backend architectures, and cross-platform development with AWS."
+        },
+        {
+            "name": "getify",
+            "bio": "Kyle Simpson is an Open Web Evangelist from Austin, TX, who's passionate about all things JavaScript. He's an author, workshop trainer, tech speaker, and OSS contributor/leader."
+        },
+        {
+            "name": "Angie Terrell",
+            "bio": ""
+        },
+        {
+            "name": "Daniel Steinberg",
+            "bio": "Author of  \"A Swift Kickstart\" and \"Developing iOS 7 Apps for iPad and iPhone\""
+        },
+        {
+            "name": "Dee Del Rosario",
+            "bio": "Dee Del Rosario is a web developer, visual artist and community organizer in video games. Currently, she works as a software engineer at Big Nerd Ranch in Atlanta. Her interests include travel, digital media, and pastries."
+        },
+        {
+            "name": "Billy Hoffman",
+            "bio": "From hacking into sites as a penetration tester, to optimizing performance for the Fortune 500, Billy has over a decade of deep technical experience into the inner workings of complex web applications. Billy was the lead researcher at the web security software company SPI Dynamics, where he developed and automated new techniques to exploit web vulnerabilities, and spoke extensively at conferences such as BlackHat and RSA about his findings. Following SPI’s acquisition by Hewlett-Packard in 2007, Billy managed HP’s web security research group. Billy founded the web performance company Zoompf in late 2009 where he developed the industry’s first site-wide performance analysis product which tells you the root-cause of your performance issues. He has spoken at industry conferences such as Velocity and has been a contributing author for O’Reilly’s Web Performance Daybook. At Rigor, Billy is the Director of Product where he focuses on delivering best-in-class performance software."
+        },
+        {
+            "name": "Ian Moraes",
+            "bio": "Ian Moraes, Ph.D., is a Senior Director, Technology at Turner where he leads web development teams at CNN. Ian has led the development of large-scale solutions for both small and large companies, presented at industry events, and written articles on a broad range of technology"
+        },
+        {
+            "name": "Pratik Patel",
+            "bio": "Pratik Patel is the CTO of Atlanta based startup TripLingo. He’s also an author, speaker, and consultant helping technologists build great apps, and business people make the most of technology. After many years in the big corporate world in places such as New York, London and Hong Long, he’s in the startup space now and hacks iOS, Android, Java, HTML5, CSS3, JavaScript, Rails, and ..... well everything except Perl. You can follow him on twitter at @prpatel."
+        },
+        {
+            "name": "Rachita Joshi",
+            "bio": "I have a keen interest in the Front-End Architecture. I am currently leading the efforts to standardize and move the Front-End Architecture for our product to BEM Methodology."
+        },
+        {
+            "name": "Erica Stanley",
+            "bio": "Erica Stanley is a software engineer, researcher and tinkerer. Always eager to explore the intersection of emerging technologies and social science, Erica has worked with various technologies at the heart of virtual, augmented and mixed reality for over 16 years.  She is also passionately working towards gender and multicultural inclusion in tech, via education and exposure to opportunities. Erica co-founded the Atlanta network of Women Who Code and sits on the advisory board of 100 Girls of Code."
+        }
+    ]
+}

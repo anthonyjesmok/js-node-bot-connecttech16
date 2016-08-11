@@ -1,6 +1,6 @@
 // IMPORTANT
 // THIS IS NOT A NODE SCRIPT
-// You must install PhantomJS and CasperJS to run this script properly.
+// You must install PhantomJS and CasperJS to run this script properly, and run it with CasperJS.
 
 // Include Modules and Files
 var casper = require('casper').create();

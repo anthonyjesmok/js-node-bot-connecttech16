@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/anthonyjesmok/js-node-bot-connecttech16#readme",
   "dependencies": {
-    "botbuilder": "^3.2.3",
+    "botbuilder": "3.2.2",
     "restify": "^4.1.1"
   }
 }
